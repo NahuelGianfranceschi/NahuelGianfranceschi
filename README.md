@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A frontend developer Jr. from Argentina</h3>
 
-- 🔭 I’m currently working on **Coder House**
+- 🔭 I’m currently studying on **Unlam**
 
 - 📫 How to reach me **nahuel.gianfra@gmail.com**
 
